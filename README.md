@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Simple currency converter made using React
+
+Data is fetched from: https://freecurrencyapi.com/
+
+All the code is provided in App.js
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
